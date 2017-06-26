@@ -1,5 +1,5 @@
 # Building your Weather Station Part II
-## Setting up the Air Sensor board
+## Setting up the air sensor board
 1. You'll need the following parts to set up the Weather Station sensors.
    
    ![](images/build_20.jpg)
@@ -103,5 +103,5 @@
 
 ![](images/silica.jpg)
 	
-## What Next?
+## What next?
 1. If you have not yet set up the software, then head on over to the [Software Guide](software.md), to configure the Weather Station. If you have done this already, then you can proceed to [Testing your Weather Station](test.md).
