@@ -1,4 +1,4 @@
-# Raspberry Pi weather station
+# The Raspberry Pi Weather Station
 
 ![](weather.png)
 
