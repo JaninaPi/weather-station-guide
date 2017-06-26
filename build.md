@@ -13,11 +13,11 @@
 
    ![](images/build_04.jpg)
 
-1. Remove the contents of board mounting kit.
+1. Remove the contents of the board mounting kit.
 
    ![](images/build_06.jpg)
 
-1. Use the four 8mm screws and the four hex spacers to affix the Raspberry Pi to its acrylic base. Then place the CN19895 receptacle over the Raspberry Pi's GPIO pins.
+1. Use the four 8 mm screws and the four hex spacers to affix the Raspberry Pi to its acrylic base. Then place the CN19895 receptacle over the Raspberry Pi's GPIO pins.
 
    ![](images/build_07.jpg)
 
@@ -38,7 +38,7 @@
 
    ![](images/build_12.jpg)
 
-1. Use the four 6mm screws to secure the weather board to the Raspberry Pi.
+1. Use the four 6 mm screws to secure the weather board to the Raspberry Pi.
 
    ![](images/build_13.jpg)
 
